@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Pretendard-Variable";
+}
+
+footer{
+  margin:auto;
+  background-color: #CEDD61;
+  width: 1000px;
+  height: 98px;
+}
+
+.company{
+  width: 150px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.company-list{
+  color:white;
+  font-size:9px;
+  margin-left:30px;
+  /* margin-top: 20px; */
+  list-style-type: none;
+}
+
+#notice{
+  width: 300px;
+  height: 50px;
+  display: flex;
+  margin-left: 700px;
+  margin-bottom: 70px;
+}
+
+.moamz-info{
+  display: flex;
+  list-style-type: none;
+  color:white;
+  font-size:8px;
+  border: 1px solid black;
+}
+
+.moamz-info{
+  margin-left: 15px;
+}
